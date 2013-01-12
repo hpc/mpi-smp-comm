@@ -15,7 +15,7 @@
 TARGET = mpi-smp-comm
 SHELL  = /bin/sh
 CC     = mpicc
-CFLAGS = -Wall
+#CFLAGS = -Wall
 
 .SUFFIXES:
 .SUFFIXES: .c .o
